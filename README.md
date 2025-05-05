@@ -10,4 +10,4 @@ This repository contains [Zillow](https://www.zillow.com/research/data/) dataset
 
 * **Years to Save**: A measure of the number of years it would take the median household to save for a 20% down payment on a home, assuming they are able to save 10% of their income into a simple savings account accruing no interest. This is equivalent to the number of years it would take the median household to save for a 10% down payment, assuming a 5% savings rate.
 
-Analysis of the data will be used for a story assignment for the *Covering the Economy* (Spring 2025) class at the Craig Newmark Graduate School of Journalism.
+Data analyzed was published in a report for [*Issue Number One*](https://issuenumberone.journalism.cuny.edu/), an economics news blog, as a requirement for the *Covering the Economy* (Spring 2025) class at the Craig Newmark Graduate School of Journalism. [**Read the story here.**](https://issuenumberone.journalism.cuny.edu/2025/03/31/wildland-firefighters-struggle-to-find-homes-to-call-their-own/)
